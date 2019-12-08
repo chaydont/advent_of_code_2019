@@ -1,5 +1,3 @@
-#usr/local/bin/julia
-
 function readinput()
     ret = Dict()
     open("input.txt") do stream
